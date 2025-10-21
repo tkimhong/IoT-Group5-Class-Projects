@@ -147,7 +147,7 @@ _Custom dashboard with temperature gauge, pressure chart, and altitude display_
 
 **Demo Video:**
 
-[![Demo video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Demo video](https://img.youtube.com/vi/F1wWUFmzFfg/0.jpg)](https://www.youtube.com/watch?v=F1wWUFmzFfg)
 
 _The video demonstrates:_
 - Hardware setup and BMP280 wiring
