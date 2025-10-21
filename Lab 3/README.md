@@ -12,7 +12,7 @@ This IoT project demonstrates environmental sensing and cloud-based data visuali
 
 ## Physical Wiring Photo
 
-![Physical wiring](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%203/assets/WiringPhoto.png?raw=true)
+![Physical wiring](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%203/assets/WiringPhoto.jpg?raw=true)
 
 ### BMP280 Pinout (I²C Mode)
 
