@@ -13,7 +13,7 @@ This IoT project monitors temperature using an ESP32, DHT22 sensor, and a relay 
 
 ## Physical Wiring Photo
 
-![Physical wiring](https://github.com/tkimhong/iot-group5-lab1/blob/main/assets/Lab1PhysicalWiringParts.jpg?raw=true)
+![Physical wiring](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%201/assets/Lab1PhysicalWiringParts.jpg?raw=true)
 
 ---
 
@@ -75,7 +75,7 @@ BOT_TOKEN = "YOUR-BOT-TOKEN-HERE"
 
 ## Flowchart
 
-![Flowchart](https://github.com/tkimhong/iot-group5-lab1/blob/main/assets/Flowchart.jpg?raw=true)
+![Flowchart](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%201/assets/Flowchart.jpg?raw=true)
 
 ---
 
@@ -83,22 +83,22 @@ BOT_TOKEN = "YOUR-BOT-TOKEN-HERE"
 
 ## Task 1: Sensor Reading
 
-![Printing temp and humidity readings every 5 seconds in Thonny](https://github.com/tkimhong/iot-group5-lab1/blob/main/assets/Task1SerialOutput.png?raw=true)
+![Printing temp and humidity readings every 5 seconds in Thonny](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%201/assets/Task1SerialOutput.png?raw=true)
 
 _DHT22 readings printed every 5 seconds with 2 decimal places_
 
 ## Task 2: Telegram Send
 
-![Telegram bot PM authorization](https://github.com/tkimhong/iot-group5-lab1/blob/main/assets/Task2BotAuthA.png?raw=true)
-![Telegram bot group authorization](https://github.com/tkimhong/iot-group5-lab1/blob/main/assets/Task2BotAuthB.png?raw=true)
+![Telegram bot PM authorization](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%201/assets/Task2BotAuthA.png?raw=true)
+![Telegram bot group authorization](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%201/assets/Task2BotAuthB.png?raw=true)
 
 _Successful bot authorization and confirmation message_
 
 ## Task 3: Bot Commands
 
-![Status Telegram bot command](https://github.com/tkimhong/iot-group5-lab1/blob/main/assets/Task3BotCommandsA.png?raw=true)
-![Turn relay ON bot command](https://github.com/tkimhong/iot-group5-lab1/blob/main/assets/Task3BotCommandsB.png?raw=true)
-![Turn relay OFF bot command](https://github.com/tkimhong/iot-group5-lab1/blob/main/assets/Task3BotCommandsC.png?raw=true)
+![Status Telegram bot command](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%201/assets/Task3BotCommandsA.png?raw=true)
+![Turn relay ON bot command](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%201/assets/Task3BotCommandsB.png?raw=true)
+![Turn relay OFF bot command](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%201/assets/Task3BotCommandsC.png?raw=true)
 
 _All three commands working: `/status`, `/on`, `/off`_
 
@@ -117,11 +117,11 @@ _The video shows_
 
 ### Additional Screenshots
 
-![Telegram temperature alerts](https://github.com/tkimhong/iot-group5-lab1/blob/main/assets/Additional1.png?raw=true)
+![Telegram temperature alerts](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%201/assets/Additional1.png?raw=true)
 
 _Temperature alerts_
 
-![Telegram auto-OFF notification & /status](https://github.com/tkimhong/iot-group5-lab1/blob/main/assets/Additional2.png?raw=true)
+![Telegram auto-OFF notification & /status](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%201/assets/Additional2.png?raw=true)
 
 _Auto-OFF notification (temperature < 30ºC)_
 
@@ -132,7 +132,7 @@ _Auto-OFF notification (temperature < 30ºC)_
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/tkimhong/iot-group5-lab1
+git clone https://github.com/tkimhong/IoT-Group5-Class-Projects
 ```
 
 2. **Setup Your Hardware:** Follow wiring diagram and reference above

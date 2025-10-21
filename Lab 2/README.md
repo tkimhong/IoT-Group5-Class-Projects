@@ -15,7 +15,7 @@ This IoT project creates a comprehensive web-based control system using ESP32, D
 
 ## Physical Wiring Photo
 
-![Physical wiring](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/WiringPhoto.png?raw=true)
+![Physical wiring](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/WiringPhoto.png?raw=true)
 
 ---
 
@@ -82,47 +82,47 @@ password = 'YOUR_WIFI_PASSWORD' # Line 18
 
 ## Task 1: LED Control
 
-![LED Control Web Interface](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task1A.png?raw=true)
+![LED Control Web Interface](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task1A.png?raw=true)
 
-![LED on ESP32](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task1B.jpeg?raw=true)
+![LED on ESP32](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task1B.jpeg?raw=true)
 
-![LED Control Web Interface](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task1C.png?raw=true)
+![LED Control Web Interface](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task1C.png?raw=true)
 
-![LED on ESP32](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task1D.jpeg?raw=true)
+![LED on ESP32](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task1D.jpeg?raw=true)
 
 _Web interface LED control buttons showing GPIO state and real-time status updates_
 
 ## Task 2: Sensor Reading
 
-![Real-time Sensor Data Display](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task2.png?raw=true)
+![Real-time Sensor Data Display](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task2.png?raw=true)
 
 _DHT22 temperature/humidity and HC-SR04 distance readings displayed on web page with auto-refresh_
 
 ## Task 3: Sensor → LCD
 
-![LCD Display Control Buttons](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task3A.png?raw=true)
+![LCD Display Control Buttons](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task3A.png?raw=true)
 
-![LCD showing temperature data](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task3B.jpeg?raw=true)
+![LCD showing temperature data](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task3B.jpeg?raw=true)
 
-![LCD Display Control Buttons](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task3C.png?raw=true)
+![LCD Display Control Buttons](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task3C.png?raw=true)
 
-![LCD showing distance data](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task3D.jpeg?raw=true)
+![LCD showing distance data](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task3D.jpeg?raw=true)
 
 _Buttons to display temperature/humidity or distance data on LCD screen_
 
 ## Task 4: Text → LCD
 
-![Custom Text Input Interface](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task4A.png?raw=true)
+![Custom Text Input Interface](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task4A.png?raw=true)
 
-![LCD displaying custom message](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task4B.jpeg?raw=true)
+![LCD displaying custom message](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task4B.jpeg?raw=true)
 
-![Custom Text Input Interface](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task4C.png?raw=true)
+![Custom Text Input Interface](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task4C.png?raw=true)
 
-![LCD displaying custom message with scrolling](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task4D.jpeg?raw=true)
+![LCD displaying custom message with scrolling](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task4D.jpeg?raw=true)
 
-![LCD displaying custom message with scrolling](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task4E.jpeg?raw=true)
+![LCD displaying custom message with scrolling](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task4E.jpeg?raw=true)
 
-![LCD displaying custom message with scrolling](https://github.com/tkimhong/iot-group5-lab2/blob/main/assets/Task4F.jpeg?raw=true)
+![LCD displaying custom message with scrolling](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%202/assets/Task4F.jpeg?raw=true)
 
 _Custom text input field and LCD displaying user message with scrolling for long text_
 
@@ -148,7 +148,7 @@ _The video shows:_
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/tkimhong/iot-group5-lab2
+git clone https://github.com/tkimhong/IoT-Group5-Class-Projects
 ```
 
 2. **Setup Your Hardware:** Follow wiring diagram and reference above

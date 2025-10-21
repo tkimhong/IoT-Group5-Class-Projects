@@ -197,7 +197,7 @@ Line 2: Used: 1/3
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/tkimhong/iot-group5-miniproj1.git
+git clone https://github.com/tkimhong/IoT-Group5-Class-Projects
 ```
 
 2. **Setup Your Hardware**: Follow pin configuration table above
