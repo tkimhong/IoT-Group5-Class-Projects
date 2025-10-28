@@ -295,9 +295,7 @@ time                  value
 
 **Full System Demo:**
 
-[![Lab 4 Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-> TODO Replace `VIDEO_ID` with YouTube video ID
+[![Lab 4 Demo Video](https://img.youtube.com/vi/sF4IUGgBHEE/0.jpg)](https://www.youtube.com/watch?v=sF4IUGgBHEE)
 
 **Demo Contents:**
 - ESP32 hardware setup and BMP280 wiring
