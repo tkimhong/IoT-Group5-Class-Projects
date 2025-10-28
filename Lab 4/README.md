@@ -39,7 +39,7 @@ Grafana (Visualization dashboard)
 
 ### Physical Wiring Photo
 
-![Physical wiring](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%204/assets/WiringPhoto.png?raw=true)
+![Physical wiring](https://github.com/tkimhong/IoT-Group5-Class-Projects/blob/main/Lab%204/assets/WiringPhoto.jpg?raw=true)
 
 ---
 
